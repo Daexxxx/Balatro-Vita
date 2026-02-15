@@ -35,15 +35,14 @@ Credits to Jafeth ([Github](https://github.com/Jafeth12), [Reddit](https://www.r
 
 - Execute windows_patch.bat to apply the patch.
 
-#### IF YOU'RE ON UNIX (LINUX/MAC):
+#### IF YOU'RE ON LINUX:
 
 - Install xdelta3 using your packet manager of choice (PATCH WILL NOT APPLY PROPERLY IF ANY OTHER VERSION OF IS USED, HAS TO BE xdelta3).
-    - Mac (using brew): ```brew install xdelta``` (we dont have mac, we cant try this out. if any mac user can confirm this does actually install xdelta3 and works it would be appreciated)
     - Debian/Ubuntu: ```sudo apt install xdelta3```
     - Arch: ```sudo pacman -S xdelta3```
     - Fedora: ```sudo dnf install xdelta```
 - Execute unix_patch.sh to apply the patch.
-
+- 
 
 #### AFTER PATCHING:
 
