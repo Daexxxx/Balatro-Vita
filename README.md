@@ -10,7 +10,7 @@ Credits to isage ([Github](https://github.com/isage), [Reddit](https://reddit.co
 
 Credits to Jafeth ([Github](https://github.com/Jafeth12), [Reddit](https://www.reddit.com/user/Skrubaso/)) for helping a lot with actually porting the game.
 
-Credits to hajisan[Github](https://github.com/hajisan) for making the macos part of the readme.
+Credits to hajisan ([Github](https://github.com/hajisan)) for making the macos part of the readme.
 
 ## Known issues, currently being worked on:
 - Flame shader not working.
